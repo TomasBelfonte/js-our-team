@@ -10,37 +10,37 @@ const teamMember = [
     nome:"Waine",
     cognome:"Barnett",
     ruolo:"Founder & CEO",
-    img: "img/wayne-barnett-founder-ceo.jpg"
+    img: "wayne-barnett-founder-ceo.jpg"
     },
     {
         nome:"Angela",
         cognome:"Caroll",
         ruolo:"Chief Editor",
-        img: "img/angela-caroll-chief-editor.jpg"
+        img: "angela-caroll-chief-editor.jpg"
     },
     {
         nome:"Walter",
         cognome:"Gordon",
         ruolo:"Office Manager",
-        img: "img/walter-gordon-office-manager.jpg"
+        img: "walter-gordon-office-manager.jpg"
     },
     {
         nome:"Angela",
         cognome:"Lopez",
         ruolo:"Social Media Manager",
-        img: "img/angela-lopez-social-media-manager.jpg"
+        img: "angela-lopez-social-media-manager.jpg"
     },
     {
         nome:"Scott",
         cognome:"Estrada",
         ruolo:"Developer",
-        img: "img/scott-estrada-developer.jpg"
+        img: "scott-estrada-developer.jpg"
     },
     {
         nome:"Barbara",
         cognome:"Ramos",
         ruolo:"Graphic Designer",
-        img: "img/barbara-ramos-graphic-designer.jpg"
+        img: "barbara-ramos-graphic-designer.jpg"
     }
     
 ];
